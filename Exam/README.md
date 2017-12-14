@@ -1,3 +1,1 @@
-This is the folder for question 1
-
-*add more stuff here
+This folder contains the final for ICP2017F 
