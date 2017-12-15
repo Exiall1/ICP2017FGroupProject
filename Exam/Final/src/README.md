@@ -1,6 +1,6 @@
 This is the folder for all the code that we have for this project.
 
- # Part 1:
+ # Part 1 (Cindy Y.):
 
 x=[10,12,14,16,18,20,22]
 
@@ -132,7 +132,7 @@ saveas(gcf,['brainplot.png',num2str(i),'.png']);        % save the figure
 end
 
 
-# Part 2:
+# Part 2 (Dilip D.):
 
 clear all
 load('../data/cells.mat')
@@ -184,4 +184,4 @@ y.LineStyle = 'none';
 y.FontSize = 10;
 saveas(gcf, '../results/ErrorBarGraph.png');
 
-# Part 3:
+# Part 3 (Ethan M.):
